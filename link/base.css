@@ -47,8 +47,9 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color: #2ab7eb; // new link color is actually #007aa6;
+	color: #ffffff; 
 	text-decoration:none;
+	font-weight: bold;
 	display:inline;
 }
 
